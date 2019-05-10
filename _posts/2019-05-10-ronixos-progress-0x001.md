@@ -1,7 +1,7 @@
 ---
 title: RonixOS Progress 0x001
 layout: post
-tags: ["RonixOS","Linux"]
+tags: ["RonixOS","Linux","Update"]
 project: true
 ---
 
