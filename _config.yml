@@ -1,14 +1,14 @@
 # Site
 title:              Triplex
-bio:                'I’m Triplex, also known as Tristan Ross and formerly called Spaceboy Ross, I’m a high school student from the Pacific Northwest in the United States. I do lots of programming and YouTube, the latter is less frequent due to school.'
-description:        "Hello, I'm Triplex. I've worked on a few projects like BlueLightOS, RonixOS, and OS.js. I do quite a bit of gaming too on my YouTube channel."
+bio:                'I’m The Computer Guy, also known as Tristan Ross and formerly called Spaceboy Ross, I’m a high school student from the Pacific Northwest in the United States. I do lots of programming and YouTube, the latter is less frequent due to school.'
+description:        "Hello, I'm The Computer Guy. I've worked on a few projects like BlueLightOS, RonixOS, and OS.js. I do quite a bit of gaming too on my YouTube channel."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://triplexross.github.io # Will remove the path as soon as this update is done.
+url:                https://rosscomputerguy.github.io # Will remove the path as soon as this update is done.
 
 # Jekyll
 permalink:          /:title/
@@ -38,8 +38,8 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            TheTriplexRoss
-github-url:         TriplexRoss
+twitter:            RossComputerGuy
+github-url:         RossComputerGuy
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
